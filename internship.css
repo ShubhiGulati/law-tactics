@@ -1,0 +1,229 @@
+.logo {
+    display: block;
+    height:100px;
+    width:350px;
+  position: relative;
+  right: 10px;
+}
+.sec{
+  height:45px;
+  width:45px;
+  position: relative;
+  bottom: 60px;
+  left :380px;
+}
+.prem{
+color: #fff ;
+    font-weight: 400;
+    font-size: 18px;
+      position: relative;
+    bottom: 80px;
+    left :400px;
+}
+.blog{
+ color: #fff ;
+    font-weight: 400;
+    font-size: 18px;
+      position: relative;
+    bottom: 80px;
+    left :450px;
+    background-color:  #005a87;
+}
+.mic{
+  width:30px;
+  margin-right:5px;
+  position: relative;
+bottom: 75px;
+left :500px;
+}
+
+.fir{
+  height: 95px;
+  background-color:  #005a87;
+}
+.pod{
+  color: #fff ;
+     font-weight: 400;
+     font-size: 18px;
+       position: relative;
+     bottom: 80px;
+     left :530px;
+}
+.playstore{
+  position: relative;
+  bottom: 71px;
+  left :680px;
+  height: 50px;
+  width:50px;
+
+}
+.apple{
+  position: relative;
+  bottom: 71px;
+  left :720px;
+  height: 40px;
+  width:40px;
+}
+.login{
+  border-radius:30px;
+  background-color: #eda404;
+  position: relative;
+  bottom: 78px;
+  left :750px;
+  color: #000;
+  text-transform: capitalize;
+    width: 70px;
+ height: 40px;
+}
+.sign{
+  border-radius:10px;
+  position: relative;
+  bottom: 78px;
+  left :790px;
+  color: #000;
+  text-transform: capitalize;
+    width: 70px;
+ height: 40px;
+ background-color: #fff;
+}
+.hea{
+   line-height:70px;
+   margin-bottom:-30px;
+   margin-top:20px;
+font-size: 3rem;
+text-align: left;
+color: rgb(255,255,255);
+
+}
+.but{
+  position: relative;
+  bottom: 71px;
+  left :680px;
+  background-color: #005a87;
+}
+.but2{
+  position: relative;
+  bottom: 71px;
+  left :720px;
+}
+.ma{
+  background-color: #006ba1;
+ height: 750px;
+
+}
+.one{
+font-size: 1.5rem;
+  color: rgb(255,255,255);
+}
+.sect{
+  width:fit-content;
+  padding:15px;
+  border-radius:20px;
+  box-shadow: 0 0 10px #fff;
+  background-color:#fff;
+  color: #000;
+  font-weight:900;
+  position: relative;
+font-size: 1rem;
+
+}
+.second{
+  margin-left: 15px;
+  padding: 50px;
+  padding-left: 120px;
+
+}
+.in{
+  position: relative;
+  bottom: 260px;
+  left: 650px;
+}
+
+.go{
+  height: 50px;
+  width:90px;
+  position: relative;
+  bottom: 400px;
+  right :490px;
+}
+.play{
+    height: 50px;
+    width:90px;
+    position: relative;
+    bottom: 400px;
+    right :400px;
+
+}
+
+.bs{
+  position: relative;
+  bottom: 85px;
+font-size: 4rem;
+}
+.le{
+  position: relative;
+  left: 240px;
+  top:30px;
+}
+.ri{
+  position: relative;
+  left: 1160px;
+  bottom:250px;
+}
+.box{
+
+  border-radius: 65px;
+    border: 4px solid #73AD21;
+    padding: 40px;
+    width: 1000px;
+    height: 450px;
+margin-left: 180px;
+position: relative;
+bottom:90px;
+background-color: #fff;
+}
+.third{
+  background-color: #8ed1fc;
+height: 300px;
+}
+
+.fi{
+  font-family: "Roboto", arial, sans-serif;
+  padding: 10px;
+
+}
+.h2{
+  text-align: left;
+  color: rgb(23, 57, 71);
+}
+.fifth{
+  position: relative;
+top:40px;
+  left:550px;
+}
+.slides{
+  width: 380px;
+  height: 460px;
+  position: relative;
+  bottom:380px;
+  left:40px;
+}
+.slide2{
+  width: 380px;
+  height: 460px;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 100%;
+  right: 0;
+
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
